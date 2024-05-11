@@ -1,4 +1,22 @@
-### Hi there 👋
+<br clear="both">
+
+<div align="center">
+  <img height="300" width="600" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif"  />
+</div>
+
+###
+
+<h1 align="center">Привет👋 Меня зовут Павел!</h1>
+
+###
+
+<div align="center">
+  <a href="https://t.me/pashykdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+###
 
 <!--
 **PaShyKDF/PaShyKDF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
