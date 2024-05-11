@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif"  />
+  <img height="150" width="600" src="https://user-images.githubusercontent.com/4668356/76604950-a3fc6a80-64dd-11ea-9e7d-b37263a15110.png"  />
 </div>
 
 ###
